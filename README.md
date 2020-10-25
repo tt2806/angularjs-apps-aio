@@ -2,7 +2,7 @@
 Many AngularJS apps all in one repository! Apps from: https://www.tutorialspoint.com/
 Look through the folders to find the apps!
 
-# Checklist
+## Checklist
 - [ ] 1/20
 - [ ] 2/20
 - [ ] 3/20
